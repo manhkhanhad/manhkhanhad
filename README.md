@@ -3,7 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 ## Hey 👋, I'm ManhKhanh
 I am a junior Computer Science major at the University of Information and Technology (UIT),Vietnam Nation University Ho Chi Minh City, Vietnam.
-My interested in Computer Vision, Generative adversarial networks, and Image-to-Image translation problems.
+I interested in Computer Vision, Generative adversarial networks, and Image-to-Image translation problems.
 
 <p align="center">
 <br/>
